@@ -1,0 +1,1 @@
+# mini_my_shop
